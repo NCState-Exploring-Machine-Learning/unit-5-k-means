@@ -4,7 +4,7 @@ Make sure pip is at least version 24.2
 
 
 Install the requirements using:
-`python3 -m venv .unit-2-env`
+`python3 -m venv .venv`
 
 Activate the virtual env
 
